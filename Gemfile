@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 gem 'rails', "~> 4.0.2"
+gem 'haml-rails'
+gem 'jquery-rails'
 
 gem "carrierwave"
 gem "carrierwave-mongoid", require: "carrierwave/mongoid"
